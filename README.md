@@ -2,7 +2,7 @@
 
 ### About me
 
-👁️‍🗨️ Tr - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
+👁️‍🗨️ Learning to code at [Platzi](https://platzi.com/)
 
 🔭 I’m working on becoming a Frontend Developer
 
